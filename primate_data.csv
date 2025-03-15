@@ -1,0 +1,13 @@
+behavior,context1,context2,outcome
+groom,friend,troop,1
+forage,fruit,food,1
+fight,rival,territory,1
+vocalize,predator,troop,1
+play,juvenile,troop,1
+tool_use,stick,food,1
+groom,dominant_male,troop,-1
+fight,rival,food,-1
+forage,barren,food,-1
+submit,dominant_male,troop,0
+rest,tree,alone,0
+vocalize,location,troop,0
